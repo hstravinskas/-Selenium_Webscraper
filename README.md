@@ -1,5 +1,8 @@
 #  Selenium_Webscraper
- 
+
+**Disclaimer:**
+This is not a multipurpose webscraper, I made this as an educational project to learn how to use Selenium WebDriver. This script simply gathers data of flats that are for sale in Vilnius from aruodas.lt and stores it in a .csv file.
+
 **Instalation:**
 
 Clone the reposity: `git clone https://github.com/hstravinskas/-Selenium_Webscraper.git`
